@@ -23,7 +23,7 @@ function Portfolio() {
       challenges: "working with a deadline",
       skills: ["#HTML", "#CSS", "#PrePros"],
       link: "https://github.com/Thebeatkicks/test-your-skills",
-      img: "portfolio-page/images/testyourskills.png",
+      img: "testyourskills.png",
       vid: "testyourskillsvid.mp4",
     },
     {
@@ -34,7 +34,7 @@ function Portfolio() {
       challenges: "getting the layout right",
       skills: ["#HTML", "#CSS", "#Grid"],
       link: "https://github.com/Thebeatkicks/genesis",
-      img: "portfolio-page/images/Genesis.png",
+      img: "Genesis.png",
       vid: "genesisvid.mp4",
     },
     {
@@ -45,7 +45,7 @@ function Portfolio() {
       challenges: "getting the game loop right",
       skills: ["#JavaScript", "#CSS", "#HTML"],
       link: "https://github.com/Thebeatkicks/javasript-7",
-      img: "/public/vanillagame.png",
+      img: "vanillagame.png",
       vid: "vanillagamevid.mp4",
     },
     {
