@@ -23,7 +23,7 @@ function Portfolio() {
       challenges: "working with a deadline",
       skills: ["#HTML", "#CSS", "#PrePros"],
       link: "https://github.com/Thebeatkicks/test-your-skills",
-      img: "portfolio-website/images/testyourskills.png",
+      img: "portfolio-page/images/testyourskills.png",
       vid: "testyourskillsvid.mp4",
     },
     {
@@ -34,7 +34,7 @@ function Portfolio() {
       challenges: "getting the layout right",
       skills: ["#HTML", "#CSS", "#Grid"],
       link: "https://github.com/Thebeatkicks/genesis",
-      img: "portfolio-website/images/Genesis.png",
+      img: "portfolio-page/images/Genesis.png",
       vid: "genesisvid.mp4",
     },
     {
