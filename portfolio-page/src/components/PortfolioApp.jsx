@@ -12,6 +12,7 @@ return (
         <h2 className="card-title">{props.title}</h2>
         <img src={`${import.meta.env.BASE_URL}${props.img}`} className="img" alt="Project" />
         
+        
         <p className="card-text"> {props.summary}</p>
         <p className="card-text">I learned {props.learned}</p>
         <p className="card-text">The biggest challenge was {props.challenges}</p>

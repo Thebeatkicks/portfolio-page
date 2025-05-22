@@ -21,13 +21,13 @@ export default function Popupwindow(props) {
   
           {vid && (
             <video
-              src={vid}
+              src={`${import.meta.env.BASE_URL}${vid}`}
               autoPlay
               loop
               muted
               playsInline
               className="w-full rounded mb-4"
-            />
+/>
           )}
   
           <p className="mb-2">{summary}</p>

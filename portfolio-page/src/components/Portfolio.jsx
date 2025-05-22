@@ -34,7 +34,7 @@ function Portfolio() {
       challenges: "getting the layout right",
       skills: ["#HTML", "#CSS", "#Grid"],
       link: "https://github.com/Thebeatkicks/genesis",
-      img: "Genesis.png",
+      img: "genesis.png",
       vid: "genesisvid.mp4",
     },
     {
